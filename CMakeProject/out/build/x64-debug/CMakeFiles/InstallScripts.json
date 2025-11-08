@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/dev/CMakeProject/out/build/x64-debug/cmake_install.cmake",
+		"D:/dev/CMakeProject/out/build/x64-debug/libs/googletest-1.17.0/cmake_install.cmake",
+		"D:/dev/CMakeProject/out/build/x64-debug/libs/googletest-1.17.0/googlemock/cmake_install.cmake",
+		"D:/dev/CMakeProject/out/build/x64-debug/libs/googletest-1.17.0/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

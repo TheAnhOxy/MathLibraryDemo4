@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>D:\dev\CMakeProject\out\build\x64-debug\RunAllTests.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="CalculatorTest.Add_HandlesPositiveNumbers" Duration="1" />
+    <TestDuration Test="CalculatorTest.Add_HandlesNegativeAndZero" Duration="1" />
+    <TestDuration Test="CalculatorTest.Subtract_HandlesBasicCases" Duration="1" />
+    <TestDuration Test="CalculatorTest.Multiply_HandlesBasicCases" Duration="1" />
+    <TestDuration Test="CalculatorTest.Divide_HandlesValidCases" Duration="1" />
+    <TestDuration Test="CalculatorTest.Divide_ThrowsExceptionOnDivideByZero" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.IsPrime" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.CalculateElectricBill" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.SolveQuadratic" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.ClassifyTriangle" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.BinaryToDecimal" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.IsLeapYear" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.QuickSort" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.IsPrime_CorrectCases" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.IsPrime_FailingAndBoundaryCases" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.CalculateElectricBill_CorrectCases" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.CalculateElectricBill_FailingAndBoundaryCases" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.SolveQuadratic_CorrectCases" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.SolveQuadratic_FailingCases" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.ClassifyTriangle_CorrectCases" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.ClassifyTriangle_FailingAndBoundaryCases" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.BinaryToDecimal_CorrectCases" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.BinaryToDecimal_FailingCase" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.IsLeapYear_CorrectCases" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.IsLeapYear_FailingCase" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.QuickSort_CorrectCases" Duration="1" />
+    <TestDuration Test="MathFunctionsTest.QuickSort_FailingCase" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

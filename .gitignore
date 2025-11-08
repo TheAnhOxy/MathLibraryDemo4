@@ -1,0 +1,12 @@
+# Build artifacts
+/out/
+/build/
+
+# Visual Studio files
+.vs/
+
+# Compiled files
+*.dll
+*.exe
+*.lib
+*.obj
