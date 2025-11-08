@@ -1,5 +1,0 @@
-if(EXISTS "D:/dev/CMakeProject/out/build/x64-debug/RunAllTests[1]_tests.cmake")
-  include("D:/dev/CMakeProject/out/build/x64-debug/RunAllTests[1]_tests.cmake")
-else()
-  add_test(RunAllTests_NOT_BUILT RunAllTests_NOT_BUILT)
-endif()
